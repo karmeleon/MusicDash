@@ -1,0 +1,19 @@
+{
+	"name": "MusicDash",
+	"version": "0.0.1",
+	"description": "Node.js app to play music when an Amazon Dash button is pressed",
+	"main": "app.js",
+	"dependencies": {
+		"node-dash-button": "^0.6.1",
+		"play-sound": "^1.1.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/karmeleon/MusicDash.git"
+	},
+	"author": {
+		"name": "Shawn Walton",
+		"email": "karmeleonnn@gmail.com",
+		"url": "https://karmeleon.github.io"
+	}
+}
